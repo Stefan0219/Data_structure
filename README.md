@@ -1,2 +1,2 @@
 # Data_structure
-My self-practice for learing UCB cs61b-sp2021
+My self-practice for learning UCB cs61b-sp2021
